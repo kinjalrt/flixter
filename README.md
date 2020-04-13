@@ -21,11 +21,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-- on iPhone 8
+  - on iPhone 8
+
 <img src="http://g.recordit.co/KU4BNoe0fW.gif" width=250><br>
 
-- on iPhone 11
-<img src="http://g.recordit.co/fwth2x89J0.gif" width=250><br>
+  - on iPhone 11
+
+<img src="http://g.recordit.co/fwth2x89J0.gif" width=500><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
