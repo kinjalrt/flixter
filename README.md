@@ -48,8 +48,3 @@ Keeping track and not mixing up all the different but similar elements used in t
 
 <img src="http://g.recordit.co/fwth2x89J0.gif" width=500><br>
 
-### Notes
-Describe any challenges encountered while building the app.
-
-The most frustrating part of the project was trying to run the app on my phone. When I tried, Xcode gave me a bunch of errors because my iOS was 1 version too old. After updating iOS to the latest version, I received a new messaage from xcode telling me that now my phone's OS was 0.2 versions ahead, and that I now have to update xcode if I want to run the app on my phone 🙂. 
-I also feel like I still don't fully understand auto layout. I feel like I implemented this feature a bit at random and got lucky to be honest. Auto layout is a topic that I will definitely have to review. 
